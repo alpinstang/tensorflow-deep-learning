@@ -6,14 +6,14 @@ All of the course materials for the [Zero to Mastery Deep Learning with TensorFl
 This course will teach you foundations of deep learning and TensorFlow as well as prepare you to pass the TensorFlow Developer Certification exam (optional).
 
 Contents of this page:
-- [Course materials](https://github.com/mrdbourke/tensorflow-deep-learning#course-materials) (everything you'll need for completing the course)
-- [Course structure](https://github.com/mrdbourke/tensorflow-deep-learning#course-structure) (how this course is taught)
-- [Should you do this course?](https://github.com/mrdbourke/tensorflow-deep-learning#should-you-do-this-course) (decide by answering a couple simple questions)
-- [Prerequisites](https://github.com/mrdbourke/tensorflow-deep-learning#prerequsites) (what skills you'll need to do this course)
-- [Exercises & Extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-exercises---extra-curriculum) (challenges to practice what you've learned and resources to learn more)
-- [Ask a question](https://github.com/mrdbourke/tensorflow-deep-learning#ask-questions) (like to know more? go here)
-- [Status/TODO](https://github.com/mrdbourke/tensorflow-deep-learning#status) (there's still more to come!)
-- [Log](https://github.com/mrdbourke/tensorflow-deep-learning#log) (updates, changes and progress)
+- [Course materials](https://github.com/alpinstang/tensorflow-deep-learning#course-materials) (everything you'll need for completing the course)
+- [Course structure](https://github.com/alpinstang/tensorflow-deep-learning#course-structure) (how this course is taught)
+- [Should you do this course?](https://github.com/alpinstang/tensorflow-deep-learning#should-you-do-this-course) (decide by answering a couple simple questions)
+- [Prerequisites](https://github.com/alpinstang/tensorflow-deep-learning#prerequsites) (what skills you'll need to do this course)
+- [Exercises & Extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-exercises---extra-curriculum) (challenges to practice what you've learned and resources to learn more)
+- [Ask a question](https://github.com/alpinstang/tensorflow-deep-learning#ask-questions) (like to know more? go here)
+- [Status/TODO](https://github.com/alpinstang/tensorflow-deep-learning#status) (there's still more to come!)
+- [Log](https://github.com/alpinstang/tensorflow-deep-learning#log) (updates, changes and progress)
 
 ## Course materials
 
@@ -26,17 +26,17 @@ Key:
 * **Exercises & Extra-curriculum:** Each module comes with a set of exercises and extra-curriculum to help practice your skills and learn more, I suggest going through these **before** you move onto the next module
 * **Slides:** Although we focus on writing TensorFlow code, we sometimes use pretty slides to describe different concepts, you'll find them here
 
-**Note:** You can get all of the notebook code created during the videos in the [`video_notebooks`](https://github.com/mrdbourke/tensorflow-deep-learning/tree/main/video_notebooks) directory.
+**Note:** You can get all of the notebook code created during the videos in the [`video_notebooks`](https://github.com/alpinstang/tensorflow-deep-learning/tree/main/video_notebooks) directory.
 
 | Number | Notebook | Data/Model | Exercises & Extra-curriculum | Slides |
 | ----- |  ----- |  ----- |  ----- |  ----- |
-| 00 | [TensorFlow Fundamentals](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb) |  | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-00-tensorflow-fundamentals-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/00_introduction_to_tensorflow_and_deep_learning.pdf) |
-| 01 | [TensorFlow Regression](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb) |  | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-01-neural-network-regression-with-tensorflow-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/01_neural_network_regression_with_tensorflow.pdf) |
-| 02 | [TensorFlow Classification](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/02_neural_network_classification_in_tensorflow.ipynb) |  | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-02-neural-network-classification-with-tensorflow-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/02_neural_network_classification_with_tensorflow.pdf) |
-| 03 | [TensorFlow Computer Vision](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/03_convolutional_neural_networks_in_tensorflow.ipynb) | [`pizza_steak`](https://storage.googleapis.com/ztm_tf_course/food_vision/pizza_steak.zip), [`10_food_classes_all_data`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-03-computer-vision--convolutional-neural-networks-in-tensorflow-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/03_convolution_neural_networks_and_computer_vision_with_tensorflow.pdf) |
-| 04 | [Transfer Learning Part 1: Feature extraction](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb) | [`10_food_classes_10_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-04-transfer-learning-in-tensorflow-part-1-feature-extraction-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/04_transfer_learning_with_tensorflow_part_1_feature_extraction.pdf) |
-| 05 | [Transfer Learning Part 2: Fine-tuning](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb) | [`10_food_classes_10_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip), [`10_food_classes_1_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_1_percent.zip), [`10_food_classes_all_data`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-05-transfer-learning-in-tensorflow-part-2-fine-tuning-exercises) | [Go to slides](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/slides/05_transfer_learning_with_tensorflow_part_2_fine_tuning.pdf) |
-| 06 | [Transfer Learning Part 3: Scaling up](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb) | [`101_food_classes_10_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/101_food_classes_10_percent.zip), [`custom_food_images`](https://storage.googleapis.com/ztm_tf_course/food_vision/custom_food_images.zip), [`fine_tuned_efficientnet_model`](https://storage.googleapis.com/ztm_tf_course/food_vision/06_101_food_class_10_percent_saved_big_dog_model.zip) | [Go to exercises & extra-curriculum](https://github.com/mrdbourke/tensorflow-deep-learning#-06-transfer-learning-in-tensorflow-part-3-scaling-up-exercises) | Coming soon |
+| 00 | [TensorFlow Fundamentals](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb) |  | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-00-tensorflow-fundamentals-exercises) | [Go to slides](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/slides/00_introduction_to_tensorflow_and_deep_learning.pdf) |
+| 01 | [TensorFlow Regression](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb) |  | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-01-neural-network-regression-with-tensorflow-exercises) | [Go to slides](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/slides/01_neural_network_regression_with_tensorflow.pdf) |
+| 02 | [TensorFlow Classification](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/02_neural_network_classification_in_tensorflow.ipynb) |  | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-02-neural-network-classification-with-tensorflow-exercises) | [Go to slides](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/slides/02_neural_network_classification_with_tensorflow.pdf) |
+| 03 | [TensorFlow Computer Vision](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/03_convolutional_neural_networks_in_tensorflow.ipynb) | [`pizza_steak`](https://storage.googleapis.com/ztm_tf_course/food_vision/pizza_steak.zip), [`10_food_classes_all_data`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip) | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-03-computer-vision--convolutional-neural-networks-in-tensorflow-exercises) | [Go to slides](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/slides/03_convolution_neural_networks_and_computer_vision_with_tensorflow.pdf) |
+| 04 | [Transfer Learning Part 1: Feature extraction](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/04_transfer_learning_in_tensorflow_part_1_feature_extraction.ipynb) | [`10_food_classes_10_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip) | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-04-transfer-learning-in-tensorflow-part-1-feature-extraction-exercises) | [Go to slides](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/slides/04_transfer_learning_with_tensorflow_part_1_feature_extraction.pdf) |
+| 05 | [Transfer Learning Part 2: Fine-tuning](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/05_transfer_learning_in_tensorflow_part_2_fine_tuning.ipynb) | [`10_food_classes_10_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_10_percent.zip), [`10_food_classes_1_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_1_percent.zip), [`10_food_classes_all_data`](https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip) | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-05-transfer-learning-in-tensorflow-part-2-fine-tuning-exercises) | [Go to slides](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/slides/05_transfer_learning_with_tensorflow_part_2_fine_tuning.pdf) |
+| 06 | [Transfer Learning Part 3: Scaling up](https://github.com/alpinstang/tensorflow-deep-learning/blob/main/06_transfer_learning_in_tensorflow_part_3_scaling_up.ipynb) | [`101_food_classes_10_percent`](https://storage.googleapis.com/ztm_tf_course/food_vision/101_food_classes_10_percent.zip), [`custom_food_images`](https://storage.googleapis.com/ztm_tf_course/food_vision/custom_food_images.zip), [`fine_tuned_efficientnet_model`](https://storage.googleapis.com/ztm_tf_course/food_vision/06_101_food_class_10_percent_saved_big_dog_model.zip) | [Go to exercises & extra-curriculum](https://github.com/alpinstang/tensorflow-deep-learning#-06-transfer-learning-in-tensorflow-part-3-scaling-up-exercises) | Coming soon |
 | 07 | Milestone project 1 (coming soon) |  | |  |
 | 08 | TensorFlow NLP Fundamentals (coming soon) |  |  |  |
 | 09 | Milestone project 2 (coming soon) |  |  |  |
@@ -134,7 +134,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 1. Play with neural networks in the [TensorFlow Playground](https://playground.tensorflow.org/) for 10-minutes. Especially try different values of the learning, what happens when you decrease it? What happens when you increase it?
 2. Replicate the model pictured in the [TensorFlow Playground diagram](https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.001&regularizationRate=0&noise=0&networkShape=6,6,6,6,6&seed=0.51287&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&regularization_hide=true&discretize_hide=true&regularizationRate_hide=true&percTrainData_hide=true&dataset_hide=true&problem_hide=true&noise_hide=true&batchSize_hide=true) below using TensorFlow code. Compile it using the Adam optimizer, binary crossentropy loss and accuracy metric. Once it's compiled check a summary of the model.
-![tensorflow playground example neural network](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/02-tensorflow-playground-replication-exercise.png)
+![tensorflow playground example neural network](https://raw.githubusercontent.com/alpinstang/tensorflow-deep-learning/main/images/02-tensorflow-playground-replication-exercise.png)
 *Try this network out for yourself on the [TensorFlow Playground website](https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.001&regularizationRate=0&noise=0&networkShape=6,6,6,6,6&seed=0.51287&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false&regularization_hide=true&discretize_hide=true&regularizationRate_hide=true&percTrainData_hide=true&dataset_hide=true&problem_hide=true&noise_hide=true&batchSize_hide=true). Hint: there are 5 hidden layers but the output layer isn't pictured, you'll have to decide what the output layer should be based on the input data.*
 3. Create a classification dataset using Scikit-Learn's [`make_moons()`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html) function, visualize it and then build a model to fit it at over 85% accuracy.
 4. Create a function (or write code) to visualize multiple image predictions for the fashion MNIST at the same time. Plot at least three different images and their prediciton labels at the same time. Hint: see the [classifcation tutorial in the TensorFlow documentation](https://www.tensorflow.org/tutorials/keras/classification) for ideas.
@@ -231,7 +231,7 @@ To prevent the course from being 100+ hours (deep learning is a broad field), va
 
 ## Ask questions
 
-Contact [Daniel Bourke](mailto:daniel@mrdbourke.com) or [add a discussion](https://github.com/mrdbourke/tensorflow-deep-learning/discussions) (preferred).
+Contact [Daniel Bourke](mailto:daniel@alpinstang.com) or [add a discussion](https://github.com/alpinstang/tensorflow-deep-learning/discussions) (preferred).
 
 # Status
 
@@ -243,9 +243,9 @@ As of: 24 Feb 2021
 * Finished slides for notebooks: 00, 01, 02, 03, 04, 05, 06
 * Polished (prepared them for external use) notebooks: 00, 01, 02, 03, 04, 05, 06
 * Finished 09/10 of code notebooks (time series still to come)
-* Video studio setup! ([see the makeshift closet studio](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/misc-studio-setup.jpeg))
-* Created GitHub Project page! See a cool Kanban setup here: https://github.com/mrdbourke/tensorflow-deep-learning/projects/1
-* Created GitHub Discussion page! Going to use this for popular QA/course tidbits: https://github.com/mrdbourke/tensorflow-deep-learning/discussions
+* Video studio setup! ([see the makeshift closet studio](https://raw.githubusercontent.com/alpinstang/tensorflow-deep-learning/main/images/misc-studio-setup.jpeg))
+* Created GitHub Project page! See a cool Kanban setup here: https://github.com/alpinstang/tensorflow-deep-learning/projects/1
+* Created GitHub Discussion page! Going to use this for popular QA/course tidbits: https://github.com/alpinstang/tensorflow-deep-learning/discussions
 
 ## TODO
 geez... I forgot how much there was still to go... classic project planning
@@ -255,8 +255,8 @@ geez... I forgot how much there was still to go... classic project planning
 * ✅ Polish GitHub readme (what you're reading now) with extra resources: 
   * data links used in course
   * extra resources & curriculum
-* 🔜 Upload slides for each section, done for: 00, 01, 02, 03, 04, 05 (see [course materials](https://github.com/mrdbourke/tensorflow-deep-learning#course-materials))
-* 🔜 Upload video notebooks for each section, done for: 00, 01, 02, 03, 04, 05 (see [.video_notebooks/](https://github.com/mrdbourke/tensorflow-deep-learning/tree/main/video_notebooks)) 
+* 🔜 Upload slides for each section, done for: 00, 01, 02, 03, 04, 05 (see [course materials](https://github.com/alpinstang/tensorflow-deep-learning#course-materials))
+* 🔜 Upload video notebooks for each section, done for: 00, 01, 02, 03, 04, 05 (see [.video_notebooks/](https://github.com/alpinstang/tensorflow-deep-learning/tree/main/video_notebooks)) 
 * Add a section which contains "things taught in this course", like a table of contents kind of thing
 * Make Colab overview video (Colab is the tool we'll be using for the whole course)
 * Make course resource overview video (e.g. how to use this GitHub, Discussions page, exercises, extra-curriculum etc)
@@ -270,13 +270,13 @@ geez... I forgot how much there was still to go... classic project planning
 * 16 Feb 2021 - polished slides for 05 and started recording videos, got 7 videos done for 05 
 * 15 Feb 2021 - finished videos for 04, now preparing to record for 05!
 * 12 Feb 2021 - recored 7 videos for section 04... wanted 10 but we'll take 7 (🤔 this seems to have happened before)
-* 11 Feb 2021 - NO PROGRESS - gave a Machine Learning deployment tutorial for [Stanford's CS329s](https://stanford-cs329s.github.io/syllabus.html) (using the model code from this course!!!) - [see the full tutorial materials](https://github.com/mrdbourke/cs329s-ml-deployment-tutorial)
+* 11 Feb 2021 - NO PROGRESS - gave a Machine Learning deployment tutorial for [Stanford's CS329s](https://stanford-cs329s.github.io/syllabus.html) (using the model code from this course!!!) - [see the full tutorial materials](https://github.com/alpinstang/cs329s-ml-deployment-tutorial)
 * 08 Feb 2021 - recorded 10 videos for section 03... and section 03 is done! 🚀 onto section 04
 * 30 Jan 2021 - 07 Feb 2021: NO PROGRESS (working on a ML deployment lecture for [Stanford's CS329s](https://stanford-cs329s.github.io/syllabus.html)... more on this later)
 * 29 Jan 2021 - recorded 9 videos for section 03... closer to 10 than yesterday but still not there
 * 28 Jan 2021 - recorded 7 videos for section 03... wanted 10 but we'll take 7
 * 27 Jan 2021 - recorded 10 videos for section 03
-* 26 Jan 2021 - polished GitHub README (what you're looking at) with a [nice table](https://github.com/mrdbourke/tensorflow-deep-learning#course-materials)
+* 26 Jan 2021 - polished GitHub README (what you're looking at) with a [nice table](https://github.com/alpinstang/tensorflow-deep-learning#course-materials)
 * 23 Jan 2021 - finished slides of 06
 * 22 Jan 2021 - finished review of notebook 06 & started slides of 06
 * 21 Jan 2021 - finished slides for 05 & started review of 06
@@ -296,7 +296,7 @@ geez... I forgot how much there was still to go... classic project planning
 * 09 Dec 2020 - finished recording videos for 00
 * 08 Dec 2020 - recorded 90% of videos for 00
 * 05 Dec 2020 - trialled recording studio for ~6 videos with notebook 00 material
-* 04 Dec 2020 - setup [recording studio in closet](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/images/misc-studio-setup.jpeg)
+* 04 Dec 2020 - setup [recording studio in closet](https://raw.githubusercontent.com/alpinstang/tensorflow-deep-learning/main/images/misc-studio-setup.jpeg)
 * 03 Dec 2020 - finished notebook 02, finished slides for 02, time to setup recording studio
 * 02 Dec 2020 - notebook 02 95% done, slides for 02 90% done
 * 01 Dec 2020 - added notebook 02 (90% polished), start preparing slides for 02
